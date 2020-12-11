@@ -2,12 +2,8 @@
 
 # Actividad 2 - Implementación de principios SOLID y Grasp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+Este proyecto fue generado con [Typescript](https://www.typescriptlang.org/) versión 3.8.3.
 
-## Development server
+## Servidor de desarrollo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Ejecute `tsc *ts --watch` para un servidor de desarrollo. Vaya a `../solid/index.html index.html` La aplicación se recargará automáticamente si cambia alguno de los archivos de origen.
